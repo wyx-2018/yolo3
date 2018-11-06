@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG20407_Label_676.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG20407_Label_676.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>³¤°²-î£³ÒCC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>23</ymin>
+			<xmax>384</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

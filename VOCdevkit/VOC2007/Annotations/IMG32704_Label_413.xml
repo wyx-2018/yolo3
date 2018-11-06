@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG32704_Label_413.jpg</filename>
+	<path>images/in/IMG32704_Label_413.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>²ýºÓ-°®µÏ¶û</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>17</ymin>
+			<xmax>423</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

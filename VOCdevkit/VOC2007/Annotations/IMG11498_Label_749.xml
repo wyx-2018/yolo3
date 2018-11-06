@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG11498_Label_749.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG11498_Label_749.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>À×Åµ-Ã·¸ÊÄÈ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>77</ymin>
+			<xmax>422</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

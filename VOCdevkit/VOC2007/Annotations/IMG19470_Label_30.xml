@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG19470_Label_30.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG19470_Label_30.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>∂´ƒœ-V6¡‚ À</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>89</ymin>
+			<xmax>380</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>

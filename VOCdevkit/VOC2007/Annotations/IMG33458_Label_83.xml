@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG33458_Label_83.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG33458_Label_83.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>丰田-埃尔法</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>13</ymin>
+			<xmax>371</xmax>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+</annotation>

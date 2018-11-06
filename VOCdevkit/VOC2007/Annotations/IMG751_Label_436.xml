@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG751_Label_436.jpg</filename>
+	<path>F:/vehicle-detection/images1/IMG751_Label_436.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>本田-艾力绅</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>34</ymin>
+			<xmax>365</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

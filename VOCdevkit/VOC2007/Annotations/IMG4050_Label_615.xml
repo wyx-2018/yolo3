@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG4050_Label_615.jpg</filename>
+	<path>images/in/IMG4050_Label_615.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÆðÑÇ-¿­×ð</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>112</ymin>
+			<xmax>391</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG23673_Label_255.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG23673_Label_255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±¼³Û-E¼¶AMG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>77</ymin>
+			<xmax>404</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

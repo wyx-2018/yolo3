@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG25096_Label_77.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG25096_Label_77.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>∑·ÃÔ-Verso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>87</ymin>
+			<xmax>416</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

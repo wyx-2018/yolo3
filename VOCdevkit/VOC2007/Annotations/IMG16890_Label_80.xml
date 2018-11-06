@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG16890_Label_80.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG16890_Label_80.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>·áÌï-À¼µÂ¿áÂ·Ôó</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>70</ymin>
+			<xmax>379</xmax>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG41969_Label_401.jpg</filename>
+	<path>images/in/IMG41969_Label_401.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÈÕ²ú-Î÷Âê</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>91</ymin>
+			<xmax>380</xmax>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

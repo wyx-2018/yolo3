@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG27835_Label_33.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG27835_Label_33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>¶«·çÐ¡¿µ-K17</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>117</ymin>
+			<xmax>320</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

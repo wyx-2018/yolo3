@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG29048_Label_640.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG29048_Label_640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>½ð±­-ÖÇÉÐS30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>55</ymin>
+			<xmax>432</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

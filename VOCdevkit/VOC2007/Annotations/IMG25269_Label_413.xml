@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG25269_Label_413.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG25269_Label_413.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>昌河-爱迪尔</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>124</ymin>
+			<xmax>316</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG22963_Label_758.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG22963_Label_758.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>马自达-Shinari</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>2</ymin>
+			<xmax>343</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

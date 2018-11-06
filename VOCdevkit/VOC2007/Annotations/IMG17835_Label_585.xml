@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG17835_Label_585.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG17835_Label_585.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>431</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ทฦัวฬุ-500</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>17</ymin>
+			<xmax>423</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

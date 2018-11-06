@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG2152_Label_643.jpg</filename>
+	<path>F:/vehicle-detection/images1/IMG2152_Label_643.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>金杯-阁瑞斯</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>60</ymin>
+			<xmax>375</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

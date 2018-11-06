@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG19264_Label_374.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG19264_Label_374.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>斯柯达-Yeti</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>76</ymin>
+			<xmax>397</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

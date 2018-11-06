@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG16987_Label_706.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG16987_Label_706.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ñ©·ðÀ¼-ÂõÈñ±¦XL</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>147</ymin>
+			<xmax>421</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

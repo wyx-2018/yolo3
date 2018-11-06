@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG40433_Label_614.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG40433_Label_614.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>起亚-佳乐</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>17</ymin>
+			<xmax>452</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

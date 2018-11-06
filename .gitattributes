@@ -1,0 +1,5 @@
+yolov3.weights filter=lfs diff=lfs merge=lfs -text
+model_data/yolov3.h5 filter=lfs diff=lfs merge=lfs -text
+yolov3.h5 filter=lfs diff=lfs merge=lfs -text
+darknet53_weights.h5 filter=lfs diff=lfs merge=lfs -text
+model_data/darknet53_weights.h5 filter=lfs diff=lfs merge=lfs -text

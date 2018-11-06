@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG27812_Label_460.jpg</filename>
+	<path>images/in/IMG27812_Label_460.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±ÈÑÇµÏ-ËÎMAX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>150</ymin>
+			<xmax>477</xmax>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>

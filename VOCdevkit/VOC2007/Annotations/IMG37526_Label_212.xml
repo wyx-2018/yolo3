@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG37526_Label_212.jpg</filename>
+	<path>images/in/IMG37526_Label_212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>´óÖÚ-É£ËþÄÉ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>60</ymin>
+			<xmax>421</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>

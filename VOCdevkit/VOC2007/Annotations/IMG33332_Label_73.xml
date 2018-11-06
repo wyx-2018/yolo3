@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG33332_Label_73.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG33332_Label_73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>丰田-FT-1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>169</ymin>
+			<xmax>297</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

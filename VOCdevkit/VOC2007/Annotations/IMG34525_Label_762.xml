@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG34525_Label_762.jpg</filename>
+	<path>images/in/IMG34525_Label_762.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>586</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ª∆∫£-¥Û≤Ò…Ò</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>49</ymin>
+			<xmax>492</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

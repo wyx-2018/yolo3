@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG40482_Label_591.jpg</filename>
+	<path>images/in/IMG40482_Label_591.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>437</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>·ÆÑÇÌØ-ÅÉÁ¦°Â</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>201</xmin>
+			<ymin>159</ymin>
+			<xmax>412</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

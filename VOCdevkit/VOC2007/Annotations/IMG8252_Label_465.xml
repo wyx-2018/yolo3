@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG8252_Label_465.jpg</filename>
+	<path>images/in/IMG8252_Label_465.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±»—«µœ-ÀŸ»Ò</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>61</ymin>
+			<xmax>366</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

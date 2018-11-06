@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG43111_Label_406.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG43111_Label_406.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>439</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>日产-风雅</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>81</xmin>
+			<ymin>60</ymin>
+			<xmax>352</xmax>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

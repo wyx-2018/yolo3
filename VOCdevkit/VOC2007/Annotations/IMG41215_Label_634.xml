@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG41215_Label_634.jpg</filename>
+	<path>images/in/IMG41215_Label_634.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>µ¿∆Ê-ø≠¡Ï</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>75</ymin>
+			<xmax>334</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

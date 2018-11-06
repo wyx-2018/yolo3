@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG40690_Label_168.jpg</filename>
+	<path>images/in/IMG40690_Label_168.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>¼ªÀûÆû³µ-Ô¶¾°X1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>44</ymin>
+			<xmax>412</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

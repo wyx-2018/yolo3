@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG5682_Label_408.jpg</filename>
+	<path>images/in/IMG5682_Label_408.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÈÕ²ú-¿¥ÒÝ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>67</ymin>
+			<xmax>476</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG20457_Label_731.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG20457_Label_731.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>À×¿ËÈøË¹-ISF</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>91</ymin>
+			<xmax>402</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

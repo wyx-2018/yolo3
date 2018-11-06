@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG621_Label_339.jpg</filename>
+	<path>F:/vehicle-detection/images1/IMG621_Label_339.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>488</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>宝骏-610</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>209</ymin>
+			<xmax>316</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>

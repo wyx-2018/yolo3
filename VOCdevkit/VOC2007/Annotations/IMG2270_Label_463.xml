@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG2270_Label_463.jpg</filename>
+	<path>F:/vehicle-detection/images1/IMG2270_Label_463.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>比亚迪-福莱尔</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>102</ymin>
+			<xmax>419</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+</annotation>

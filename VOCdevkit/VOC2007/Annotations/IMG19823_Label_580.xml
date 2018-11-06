@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG19823_Label_580.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG19823_Label_580.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>荣威-RX5新能源</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>58</ymin>
+			<xmax>425</xmax>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG7337_Label_622.jpg</filename>
+	<path>images/in/IMG7337_Label_622.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÆðÑÇ-¸£ÈðµÏ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>67</ymin>
+			<xmax>363</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

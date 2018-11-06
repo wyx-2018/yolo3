@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG2912_Label_189.jpg</filename>
+	<path>F:/vehicle-detection/images1/IMG2912_Label_189.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>哈飞-赛马</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>2</ymin>
+			<xmax>409</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>

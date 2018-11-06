@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG33895_Label_506.jpg</filename>
+	<path>images/in/IMG33895_Label_506.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>œ÷¥˙-H-1ª‘“Ì</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>38</ymin>
+			<xmax>418</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

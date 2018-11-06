@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG16633_Label_243.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG16633_Label_243.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÆæÈð-°¬ÈðÔó7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>81</ymin>
+			<xmax>330</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>

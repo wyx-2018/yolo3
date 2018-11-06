@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG28915_Label_369.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG28915_Label_369.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ë¹°ÍÂ³-Òí±ª</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>128</ymin>
+			<xmax>378</xmax>
+			<ymax>279</ymax>
+		</bndbox>
+	</object>
+</annotation>

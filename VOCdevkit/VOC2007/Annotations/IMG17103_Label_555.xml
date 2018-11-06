@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG17103_Label_555.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG17103_Label_555.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>430</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÄÉÖÇ½Ý-Èñ3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>117</ymin>
+			<xmax>287</xmax>
+			<ymax>316</ymax>
+		</bndbox>
+	</object>
+</annotation>

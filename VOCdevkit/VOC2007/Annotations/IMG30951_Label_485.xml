@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG30951_Label_485.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG30951_Label_485.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Œ÷∂˚Œ÷-V60</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>141</ymin>
+			<xmax>432</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>

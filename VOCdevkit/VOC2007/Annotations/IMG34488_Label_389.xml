@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG34488_Label_389.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG34488_Label_389.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>日产-IDX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>78</ymin>
+			<xmax>405</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

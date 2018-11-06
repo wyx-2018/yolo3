@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG3284_Label_22.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG3284_Label_22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>588</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>三菱-帕杰罗</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>2</ymin>
+			<xmax>530</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

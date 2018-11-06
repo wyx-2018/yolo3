@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG28717_Label_529.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG28717_Label_529.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÏÖ´ú-ÑÅ¿ÆÊË</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>92</ymin>
+			<xmax>412</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

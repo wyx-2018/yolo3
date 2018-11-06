@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG21620_Label_341.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG21620_Label_341.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±¶ø•-¿÷≥€</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>43</ymin>
+			<xmax>367</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

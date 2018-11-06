@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG10767_Label_544.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG10767_Label_544.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>¸£ÌØ-¾­µäÈ«Ë³</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>22</ymin>
+			<xmax>422</xmax>
+			<ymax>308</ymax>
+		</bndbox>
+	</object>
+</annotation>

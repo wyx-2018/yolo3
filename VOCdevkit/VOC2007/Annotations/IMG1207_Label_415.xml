@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG1207_Label_415.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG1207_Label_415.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±¾Ìï-CR-Z</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>14</xmin>
+			<ymin>97</ymin>
+			<xmax>421</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

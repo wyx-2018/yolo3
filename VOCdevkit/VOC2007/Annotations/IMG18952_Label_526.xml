@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG18952_Label_526.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG18952_Label_526.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>587</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÏÖ´ú-Ë÷ÄÉËþ°Ë</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>74</ymin>
+			<xmax>587</xmax>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

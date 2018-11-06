@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG42616_Label_28.jpg</filename>
+	<path>images/in/IMG42616_Label_28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>∂´ƒœ-V3¡‚‘√</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>137</ymin>
+			<xmax>342</xmax>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

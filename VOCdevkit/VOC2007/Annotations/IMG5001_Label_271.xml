@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG5001_Label_271.jpg</filename>
+	<path>images/in/IMG5001_Label_271.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±¼³Û-Âõ°ÍºÕS¼¶</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>126</ymin>
+			<xmax>418</xmax>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

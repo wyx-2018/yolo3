@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG37020_Label_588.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG37020_Label_588.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>菲亚特-Sedici</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>15</ymin>
+			<xmax>419</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

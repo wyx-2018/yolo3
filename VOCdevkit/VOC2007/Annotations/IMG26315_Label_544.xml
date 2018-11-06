@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG26315_Label_544.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG26315_Label_544.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>福特-经典全顺</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>82</ymin>
+			<xmax>382</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

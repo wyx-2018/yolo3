@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG11479_Label_146.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG11479_Label_146.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ë«Áú-Â·µÛ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>192</ymin>
+			<xmax>222</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

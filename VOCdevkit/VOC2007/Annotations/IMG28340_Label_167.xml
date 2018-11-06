@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG28340_Label_167.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG28340_Label_167.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>¼ªÀûÆû³µ-Ô¶¾°SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>110</xmin>
+			<ymin>80</ymin>
+			<xmax>321</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

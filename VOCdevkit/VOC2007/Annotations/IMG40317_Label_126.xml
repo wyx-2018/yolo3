@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG40317_Label_126.jpg</filename>
+	<path>images/in/IMG40317_Label_126.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>øÀ¿≥Àπ¿’-¡‘ ﬁ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>155</ymin>
+			<xmax>388</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

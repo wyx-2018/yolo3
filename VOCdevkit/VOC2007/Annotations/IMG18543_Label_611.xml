@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG18543_Label_611.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG18543_Label_611.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>起亚-SPORTAGE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>56</ymin>
+			<xmax>429</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

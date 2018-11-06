@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG35867_Label_288.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG35867_Label_288.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>奥迪-R18</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>69</ymin>
+			<xmax>425</xmax>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+</annotation>

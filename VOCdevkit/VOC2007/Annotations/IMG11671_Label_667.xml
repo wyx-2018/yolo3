@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG11671_Label_667.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG11671_Label_667.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>³¤°²-CX20</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>85</ymin>
+			<xmax>407</xmax>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+</annotation>

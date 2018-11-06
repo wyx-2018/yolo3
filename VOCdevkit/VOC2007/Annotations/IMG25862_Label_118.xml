@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG25862_Label_118.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG25862_Label_118.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±£Ê±½Ý-718</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>135</ymin>
+			<xmax>410</xmax>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

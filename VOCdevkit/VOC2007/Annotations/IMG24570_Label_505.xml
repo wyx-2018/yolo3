@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG24570_Label_505.jpg</filename>
+	<path>images/in/IMG24570_Label_505.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÂêÉ¯À­µÙ-×Ü²Ã</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>122</ymin>
+			<xmax>314</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+</annotation>

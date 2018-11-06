@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG11099_Label_205.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG11099_Label_205.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>大众-夏朗</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>15</ymin>
+			<xmax>354</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

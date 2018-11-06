@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG37905_Label_550.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG37905_Label_550.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>红旗-H7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>10</ymin>
+			<xmax>428</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

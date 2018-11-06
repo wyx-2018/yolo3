@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG20040_Label_292.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG20040_Label_292.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>°ÂµÏ-RS5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>54</xmin>
+			<ymin>94</ymin>
+			<xmax>417</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

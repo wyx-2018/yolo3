@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG42637_Label_460.jpg</filename>
+	<path>images/in/IMG42637_Label_460.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>513</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±ÈÑÇµÏ-ËÎMAX</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>25</ymin>
+			<xmax>448</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

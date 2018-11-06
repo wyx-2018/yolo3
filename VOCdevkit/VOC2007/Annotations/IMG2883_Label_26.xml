@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG2883_Label_26.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG2883_Label_26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ш§Ст-вэЩё</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>48</ymin>
+			<xmax>357</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

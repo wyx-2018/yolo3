@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG29332_Label_756.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG29332_Label_756.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Âí×Ô´ï-3ÐÇ³Ò</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>85</ymin>
+			<xmax>358</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG19098_Label_640.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG19098_Label_640.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>金杯-智尚S30</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>60</ymin>
+			<xmax>339</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

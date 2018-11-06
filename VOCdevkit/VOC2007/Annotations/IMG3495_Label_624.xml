@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG3495_Label_624.jpg</filename>
+	<path>images/in/IMG3495_Label_624.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÆðÑÇ-ËÙÂõ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>126</ymin>
+			<xmax>367</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

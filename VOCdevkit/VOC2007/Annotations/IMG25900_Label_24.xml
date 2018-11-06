@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG25900_Label_24.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG25900_Label_24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>»˝¡‚-∏Ò¿∂µœ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>53</ymin>
+			<xmax>383</xmax>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

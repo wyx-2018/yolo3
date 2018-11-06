@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG37060_Label_148.jpg</filename>
+	<path>images/in/IMG37060_Label_148.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ë«Áú-À×Ë¹ÌØW</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>88</ymin>
+			<xmax>342</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

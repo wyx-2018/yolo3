@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG29422_Label_298.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG29422_Label_298.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>°ÂµÏ-S4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>73</ymin>
+			<xmax>391</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

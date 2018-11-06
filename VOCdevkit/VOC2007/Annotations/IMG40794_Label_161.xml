@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG40794_Label_161.jpg</filename>
+	<path>images/in/IMG40794_Label_161.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>¼ªÀûÆû³µ-Ó¢Â×C5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>48</ymin>
+			<xmax>415</xmax>
+			<ymax>318</ymax>
+		</bndbox>
+	</object>
+</annotation>

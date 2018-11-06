@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG1976_Label_113.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG1976_Label_113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÖÚÌ©-ÔÆ100</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>89</xmin>
+			<ymin>81</ymin>
+			<xmax>392</xmax>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+</annotation>

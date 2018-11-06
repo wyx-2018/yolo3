@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG34588_Label_445.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG34588_Label_445.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>林肯-领航员</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>82</ymin>
+			<xmax>368</xmax>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+</annotation>

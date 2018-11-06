@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG33831_Label_349.jpg</filename>
+	<path>images/in/IMG33831_Label_349.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>493</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>¹ãÆû´«ì÷-´«ì÷GS3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>107</ymin>
+			<xmax>457</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

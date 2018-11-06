@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG191_Label_291.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG191_Label_291.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>°ÂµÏ-RS4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>63</ymin>
+			<xmax>393</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+</annotation>

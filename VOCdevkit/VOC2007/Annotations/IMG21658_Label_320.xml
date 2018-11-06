@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG21658_Label_320.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG21658_Label_320.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±¦Âí-EfficientDynamics</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>208</ymin>
+			<xmax>382</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

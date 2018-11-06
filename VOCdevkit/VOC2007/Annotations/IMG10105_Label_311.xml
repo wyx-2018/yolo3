@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG10105_Label_311.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG10105_Label_311.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>±¦Âí-5Ïµ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>76</ymin>
+			<xmax>350</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG31082_Label_718.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG31082_Label_718.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ñ©ÌúÁú-GT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<ymin>88</ymin>
+			<xmax>391</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

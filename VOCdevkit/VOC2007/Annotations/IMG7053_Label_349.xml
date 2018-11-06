@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG7053_Label_349.jpg</filename>
+	<path>images/in/IMG7053_Label_349.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>¹ãÆû´«ì÷-´«ì÷GS3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>81</ymin>
+			<xmax>423</xmax>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

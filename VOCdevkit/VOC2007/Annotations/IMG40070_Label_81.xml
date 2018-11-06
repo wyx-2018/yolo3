@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG40070_Label_81.jpg</filename>
+	<path>images/in/IMG40070_Label_81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>∑·ÃÔ-ø≠√¿»</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>92</ymin>
+			<xmax>347</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

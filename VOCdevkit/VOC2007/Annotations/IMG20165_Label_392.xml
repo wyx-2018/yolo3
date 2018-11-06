@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG20165_Label_392.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG20165_Label_392.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>日产-Rogue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>47</xmin>
+			<ymin>69</ymin>
+			<xmax>334</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

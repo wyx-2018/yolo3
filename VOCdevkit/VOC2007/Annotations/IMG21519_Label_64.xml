@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG21519_Label_64.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG21519_Label_64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÖÐ»ª-¿¥½ÝCross</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>147</ymin>
+			<xmax>421</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>

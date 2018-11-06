@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG38699_Label_750.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG38699_Label_750.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>雷诺-科雷傲</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>153</xmin>
+			<ymin>204</ymin>
+			<xmax>283</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

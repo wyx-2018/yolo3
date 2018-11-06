@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG10979_Label_218.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG10979_Label_218.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>´óÖÚ-»Ô°º</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>58</ymin>
+			<xmax>377</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

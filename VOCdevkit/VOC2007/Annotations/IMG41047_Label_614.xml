@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG41047_Label_614.jpg</filename>
+	<path>images/in/IMG41047_Label_614.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>489</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÆðÑÇ-¼ÑÀÖ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>65</ymin>
+			<xmax>482</xmax>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

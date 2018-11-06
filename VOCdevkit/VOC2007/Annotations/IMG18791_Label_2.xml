@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG18791_Label_2.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG18791_Label_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jeep-大切诺基SRT</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>163</ymin>
+			<xmax>430</xmax>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+</annotation>

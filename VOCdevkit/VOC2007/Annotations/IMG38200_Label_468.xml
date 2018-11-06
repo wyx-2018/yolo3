@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG38200_Label_468.jpg</filename>
+	<path>images/in/IMG38200_Label_468.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ω≠ª¥-Õ¨‘√RS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>54</ymin>
+			<xmax>406</xmax>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG23150_Label_583.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG23150_Label_583.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>莲花汽车-竞速</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>122</xmin>
+			<ymin>163</ymin>
+			<xmax>300</xmax>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+</annotation>

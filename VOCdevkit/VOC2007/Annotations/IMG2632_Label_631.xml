@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG2632_Label_631.jpg</filename>
+	<path>F:/vehicle-detection/images1/IMG2632_Label_631.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>435</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>路虎-神行者</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>39</ymin>
+			<xmax>376</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

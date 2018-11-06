@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG32705_Label_89.jpg</filename>
+	<path>images/in/IMG32705_Label_89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>·áÌï-½ÜÂ·³Û</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>79</ymin>
+			<xmax>392</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG30164_Label_250.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG30164_Label_250.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>奔驰-CLK级</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>137</ymin>
+			<xmax>424</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

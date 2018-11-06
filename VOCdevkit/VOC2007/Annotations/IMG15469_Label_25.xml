@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG15469_Label_25.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG15469_Label_25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÈýÁâ-Å·À¶µÂ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>67</ymin>
+			<xmax>395</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

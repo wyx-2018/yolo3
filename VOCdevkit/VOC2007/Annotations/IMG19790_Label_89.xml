@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG19790_Label_89.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG19790_Label_89.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>·áÌï-½ÜÂ·³Û</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>120</ymin>
+			<xmax>398</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+</annotation>

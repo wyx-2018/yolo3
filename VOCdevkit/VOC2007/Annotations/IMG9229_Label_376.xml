@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG9229_Label_376.jpg</filename>
+	<path>images/in/IMG9229_Label_376.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>494</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ë¹¿Â´ï-Ã÷Èñ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>69</ymin>
+			<xmax>479</xmax>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+</annotation>

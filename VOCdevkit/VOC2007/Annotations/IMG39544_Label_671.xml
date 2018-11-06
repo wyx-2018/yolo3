@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG39544_Label_671.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG39544_Label_671.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>长安-奔奔LOVE</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>100</ymin>
+			<xmax>406</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

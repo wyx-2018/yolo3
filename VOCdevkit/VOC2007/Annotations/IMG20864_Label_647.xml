@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG20864_Label_647.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG20864_Label_647.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÁåÄ¾-±±¶·ÐÇ</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>57</ymin>
+			<xmax>421</xmax>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

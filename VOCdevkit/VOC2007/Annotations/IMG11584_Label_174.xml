@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG11584_Label_174.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG11584_Label_174.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>490</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ãû¾ô-ZS</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>115</ymin>
+			<xmax>472</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

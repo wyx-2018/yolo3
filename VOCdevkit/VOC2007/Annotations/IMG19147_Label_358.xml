@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG19147_Label_358.jpg</filename>
+	<path>F:\vehicle-detection\images1\IMG19147_Label_358.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>悍马-H3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>52</ymin>
+			<xmax>395</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

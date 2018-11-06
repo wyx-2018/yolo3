@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG34756_Label_489.jpg</filename>
+	<path>images/in/IMG34756_Label_489.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÎÖ¶ûÎÖ-XC90ĞÂÄÜÔ´</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>0</xmin>
+			<ymin>78</ymin>
+			<xmax>73</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

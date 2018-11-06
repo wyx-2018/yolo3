@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images1</folder>
+	<filename>IMG267_Label_655.jpg</filename>
+	<path>F:/vehicle-detection/images1/IMG267_Label_655.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>437</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>铃木-超级维特拉</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>38</xmin>
+			<ymin>60</ymin>
+			<xmax>401</xmax>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

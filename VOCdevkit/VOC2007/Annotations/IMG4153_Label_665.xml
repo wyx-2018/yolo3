@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG4153_Label_665.jpg</filename>
+	<path>images/in/IMG4153_Label_665.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>587</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>³¤³Ç-·ç¿¥6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>11</ymin>
+			<xmax>498</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG28795_Label_505.jpg</filename>
+	<path>F:\vehicle-detection\images\IMG28795_Label_505.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ÂêÉ¯À­µÙ-×Ü²Ã</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>76</ymin>
+			<xmax>386</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>

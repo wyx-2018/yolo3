@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+	<folder>images</folder>
+	<filename>IMG8941_Label_545.jpg</filename>
+	<path>images/in/IMG8941_Label_545.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>434</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>∏£Ãÿ-“Ìª¢</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>61</xmin>
+			<ymin>71</ymin>
+			<xmax>358</xmax>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>
